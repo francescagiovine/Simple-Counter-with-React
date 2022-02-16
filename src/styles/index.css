@@ -10,3 +10,17 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.counterHeader{
+    text-align: center;
+    background-color: cadetblue;
+    margin: 20px;
+}
+.counterHeader div{
+    display: inline-block;
+    font-size: 70px;
+    line-height: 70px;
+    background-color: cadetblue;
+    color: white;
+    padding: 20px;
+}
+
